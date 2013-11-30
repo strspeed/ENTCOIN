@@ -1,3 +1,3 @@
-FooCoin (FOO)
+Entcoin (ENT)
 
 Blah, blah, blah.

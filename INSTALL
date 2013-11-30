@@ -1,9 +1,9 @@
-Building FooCoin
+Building Entcoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building Entcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of Entcoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building Entcoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of Entcoin.
